@@ -17,7 +17,7 @@
 
 <hr>
 
-<h2> <b>Software a ser utilizado: _BrModelo (Usei o MySQL Workbench)</b> </h2>
+<h2> <b>Software a ser utilizado: _BrModelo (Usei o Lucidchat online)</b> </h2>
 
 <hr> <br>
 
@@ -36,3 +36,28 @@
 <p> • Uma das etapas mais importantes do processo de modelagem de dados é a entrevista com os clientes, na qual serão identificadas as regras de negócio do projeto. A entrevista dará todo o direcionamento ao nosso projeto. Através dela, conhecemos todos os detalhes do negócio e podemos estruturar os próximos passos. </p>
 
 <hr> <br>
+
+<h1> Aula 03: Entidades </h1>
+
+<h2> <b> O que são Entidades? </b> </h2>
+<p> • A Entidade é um objeto único no mundo real, pode ser tanto um objeto, quanto uma pessoa. Podemos ter entidades abstratas ou concretas. Clientes e Carros são concretos, já um Departamento de Vendas é abstrato. </p>
+
+<h2> <b> Diferença entre Entidade forte e fraca: </b> </h2>
+<p> • A Entidade Forte existe independentemente de outra entidade, já a fraca depende de uma outra entidade. Exemplo: Em uma empresa com funcionário e dependente do funcionário, os dois são entidades, mas o funcionário é forte e o dependente é fraco.</p>
+<p> • A Entidade Forte possui um atributo exclusivo que é chamado de <b>chave primária</b>. As Entidades Fracas não possuem chave primária
+<p style="font-style: italic;"> Obs: A entidade <b>forte</b> é representada por um <b>retângulo</b>. A entidade <b>fraca</b> é representa por um <b>retângulo duplo</b>.</p>
+
+<div style="text-align: center;">
+    <img style= "border: 4px solid black;"src="https://user-images.githubusercontent.com/69658602/188220164-682376ab-f76d-4e03-9211-924aa6d7dbed.png">
+</div>
+<br>
+
+<h2> Entidades Fortes e Fracas do projeto: </h2>
+<div style="text-align: center;">
+    <img style= "border: 4px solid black; height: 300px;"src="https://user-images.githubusercontent.com/69658602/188223520-eda49fef-ace7-4172-8747-bdb23ab51850.png">
+</div>
+<br>
+
+<h2> <b>  </b> </h2>
+<p> • </p>
+
