@@ -22,4 +22,17 @@
 <hr> <br>
 
 <h1> Aula 02: Modelo entidade relacionamento </h1>
-<p> teste </p>
+
+<h2> <b>Mini-mundo: </b> </h2>
+<p> • Mini-mundo é considerado uma das etapas mais importantes do processo de modelagem dos dados, pois, através desta etapa, entendemos como o banco de dados será estruturado. Mini-mundo é uma abstração de uma pequena parte do mundo real, que é de grande interesse para uma aplicação.</p> 
+
+<h2> <b>MER: </b> </h2>
+<p> • O MER (Modelo Entidade Relacionamento) é um modelo conceitual usado para descrever os objetos (entidades) com suas características (atributos) e como elas se relacionam entre si (relacionamento).
+
+<h2> <b>DER: </b> </h2>
+<p> • O DER (Diagrama Entidade Relacionamento) é a representação gráfica do modelo conceitual (MER). O DER ajuda a visualizar as informações em  situações práticas.
+
+<h2> <b>Importância da entrevista: </b> </h2>
+<p> • Uma das etapas mais importantes do processo de modelagem de dados é a entrevista com os clientes, na qual serão identificadas as regras de negócio do projeto. A entrevista dará todo o direcionamento ao nosso projeto. Através dela, conhecemos todos os detalhes do negócio e podemos estruturar os próximos passos. </p>
+
+<hr> <br>
