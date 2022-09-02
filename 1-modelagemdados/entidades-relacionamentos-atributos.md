@@ -47,8 +47,8 @@
 <p> • A Entidade Forte possui um atributo exclusivo que é chamado de <b>chave primária</b>. As Entidades Fracas não possuem chave primária
 <p style="font-style: italic;"> Obs: A entidade <b>forte</b> é representada por um <b>retângulo</b>. A entidade <b>fraca</b> é representa por um <b>retângulo duplo</b>.</p>
 
-<div style="text-align: center;">
-    <img align="center" style= "border: 4px solid black;"src="https://user-images.githubusercontent.com/69658602/188220164-682376ab-f76d-4e03-9211-924aa6d7dbed.png">
+<div align="center" style="text-align: center;">
+    <img style= "border: 4px solid black;"src="https://user-images.githubusercontent.com/69658602/188220164-682376ab-f76d-4e03-9211-924aa6d7dbed.png">
 </div>
 <br>
 
