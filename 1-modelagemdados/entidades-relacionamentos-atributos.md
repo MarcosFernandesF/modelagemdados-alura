@@ -1,6 +1,6 @@
-<h1> Modelagem de banco de dados - entidades, relacionamentos e atributos: </h1> <br>
+<h1> Modelagem de banco de dados - entidades, relacionamentos e atributos: </h1>
 
-<h1> Aula 01: </h1>
+<h1> Aula 01: Banco de Dados </h1>
 <p> A modelagem de dados é um processo onde se tem a concepção dos dados. Os dados são levantados, tratados e estruturados para, assim ter uma boa base para a construção do banco de dados e evitar diversos problemas.</p>
  
 <h2> <b> Modelagem Conceitual: </b> </h2>
@@ -17,6 +17,9 @@
 
 <hr>
 
-<h2> <b>Software a ser utilizado: _BrModelo</b> </h2>
+<h2> <b>Software a ser utilizado: _BrModelo (Usei o MySQL Workbench)</b> </h2>
 
-<hr>
+<hr> <br>
+
+<h1> Aula 02: Modelo entidade relacionamento </h1>
+<p> teste </p>
