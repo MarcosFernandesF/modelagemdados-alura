@@ -53,11 +53,39 @@
 <br>
 
 <h2 align="center"> Entidades Fortes e Fracas do projeto: </h2>
+<<<<<<< HEAD
 <div align="center" style="text-align: center;">
+=======
+<div style="text-align: center;">
+>>>>>>> db4191c (Aula 04: Diagrama entidade relacionamento)
     <img style= "border: 4px solid black; height: 300px;"src="https://user-images.githubusercontent.com/69658602/188223520-eda49fef-ace7-4172-8747-bdb23ab51850.png">
 </div>
+<hr>
 <br>
+
+<h1> Aula 04: Diagrama entidade relacionamento</h1>
+
+<h2> <b> Tipos de relacionamento: </b> </h2>
+<p> • Relacionamento Binário: Relacionamento entre <b> 2 </b> entidades.</p>
+<p> • Relacionamento Ternário: Relacionamento entre <b> 3 </b> entidades.</p>
+<p> • Relacionamento -ário: Relacionamento entre <b> 4 </b> entidades.</p>
+
+<h2> <b> Cardinalidade: Relação entre as entidades</b> </h2>
+<h3> <b> Tipos de Cardinalidade </b> </h3>
+<p> • <b> Cardinalidade 1:1.</b> Acontece quando cada ocorrência da entidade A se relaciona com somento uma ocorrência da entidade B. </p>
+<p> • <b> Cardinalidade 1:N.</b> Quando cada ocorrência da entidade A se relaciona com mais de uma ocorrência da entidade B. </p>
+<p> • <b> Cardinalidade N:M. </b> Quando mais de uma ocorrência da entidade A se relaciona com mais de uma ocorrência da entidade B.</p>
+
+<h2 align="center"> Representando os relacionamentos no DER: </h2>
+<div style="text-align: center;">
+    <img style= "border: 4px solid black; height: 300px;"src="https://user-images.githubusercontent.com/69658602/188504806-05fdffc8-f276-467b-8550-8c38808ad9a8.png">
+</div>
+
+<h2> Entidade Associativa: </h2>
+<p> • Todo relacionamento n:m pode ser entendido como uma entidade, essa entidade é denominada associativa, pois elas representam um fato, um relacionamento muitos-para-muitos. A entidade associativa faz a intermediação entre as entidades.</p>
+<div style="text-align: center;">
+    <img style= "border: 4px solid black; height: 300px;"src="https://user-images.githubusercontent.com/69658602/188505690-9e5db2bf-ab8b-46be-a39b-7c2951024d4c.png">
+</div>
 
 <h2> <b>  </b> </h2>
 <p> • </p>
-
