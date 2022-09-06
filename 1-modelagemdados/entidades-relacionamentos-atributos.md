@@ -53,11 +53,7 @@
 <br>
 
 <h2 align="center"> Entidades Fortes e Fracas do projeto: </h2>
-<<<<<<< HEAD
-<div align="center" style="text-align: center;">
-=======
 <div style="text-align: center;">
->>>>>>> db4191c (Aula 04: Diagrama entidade relacionamento)
     <img style= "border: 4px solid black; height: 300px;"src="https://user-images.githubusercontent.com/69658602/188223520-eda49fef-ace7-4172-8747-bdb23ab51850.png">
 </div>
 <hr>
@@ -68,7 +64,7 @@
 <h2> <b> Tipos de relacionamento: </b> </h2>
 <p> • Relacionamento Binário: Relacionamento entre <b> 2 </b> entidades.</p>
 <p> • Relacionamento Ternário: Relacionamento entre <b> 3 </b> entidades.</p>
-<p> • Relacionamento -ário: Relacionamento entre <b> 4 </b> entidades.</p>
+<p> • Relacionamento N-ário: Relacionamento entre <b> 4 </b> entidades.</p>
 
 <h2> <b> Cardinalidade: Relação entre as entidades</b> </h2>
 <h3> <b> Tipos de Cardinalidade </b> </h3>
@@ -86,6 +82,38 @@
 <div style="text-align: center;">
     <img style= "border: 4px solid black; height: 300px;"src="https://user-images.githubusercontent.com/69658602/188505690-9e5db2bf-ab8b-46be-a39b-7c2951024d4c.png">
 </div>
+<hr>
+<br>
 
-<h2> <b>  </b> </h2>
-<p> • </p>
+<h1> <b> Aula 05: Atributos </b> </h1>
+
+<h2> <b> O que são Atributos? </b> </h2>
+<p> • Atributos são as características das Entidades.</p>
+<p> • Não existe entidade sem um atributo.</p>
+
+<h2> <b> Tipos de Atributo: </b> </h2>
+<p> • Simples (atômico ou valor único, não pode ser dividido em partes menores para formar outros atributos). </p>
+<p> • Composto (Pode ser dividido em partes menores para representar outros atributos. Endereço com cidade, rua, cep).</p>
+<p> • Multivalorado (Mais de um valor).</p>
+<p> • Armazenados (Um atributo que você pode armazenar, por exemplo uma data de nascimento).</p>
+<p> • Derivados (Depende de outro atributo ou entidade para existir, como idade e data de nascimento).</p>
+<p> • Null.</p>
+<p> • Obrigatório (Not Null).</p>
+<p> • Opcional (Null).</p>
+<p> • Chave (Utilizado para identificar de forma única uma entidade. Exemplo: Código de um produto).</p>
+
+<p style="font-style: italic;"> Obs: A chave que sai da entidade forte e chega na entidade fraca é denominada <b> chave estrangeira </b>.</p>
+
+<h2> <b> Chave primária: </b> </h2>
+<p> • Nunca se repete.</p>
+<p> • Não pode ser nulo.</p>
+<p> • Só entidades fortes possuem chave primária.</p>
+<p> • Na representação pintamos de preto.</p>
+<p> • Em entidades fracas temos a chave parcial, mas também temos que colocar a chave primária da entidade forte relacionada. Exemplo: Cod_cliente em "Pedido".</p>
+
+<h2 align="center"> Modelagem final: </h2>
+<div style="text-align: center;">
+    <img style= "border: 4px solid black; height: 300px;"src="https://user-images.githubusercontent.com/69658602/188716106-228bbaed-5ee3-405a-b997-c2fbdb987779.png">
+</div>
+
+<hr>
