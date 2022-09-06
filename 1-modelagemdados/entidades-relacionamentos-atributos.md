@@ -53,7 +53,7 @@
 <br>
 
 <h2 align="center"> Entidades Fortes e Fracas do projeto: </h2>
-<div style="text-align: center;">
+<div align="center" style="text-align: center;">
     <img style= "border: 4px solid black; height: 300px;"src="https://user-images.githubusercontent.com/69658602/188223520-eda49fef-ace7-4172-8747-bdb23ab51850.png">
 </div>
 <hr>
@@ -73,13 +73,13 @@
 <p> • <b> Cardinalidade N:M. </b> Quando mais de uma ocorrência da entidade A se relaciona com mais de uma ocorrência da entidade B.</p>
 
 <h2 align="center"> Representando os relacionamentos no DER: </h2>
-<div style="text-align: center;">
+<div align="center" style="text-align: center;">
     <img style= "border: 4px solid black; height: 300px;"src="https://user-images.githubusercontent.com/69658602/188504806-05fdffc8-f276-467b-8550-8c38808ad9a8.png">
 </div>
 
 <h2> Entidade Associativa: </h2>
 <p> • Todo relacionamento n:m pode ser entendido como uma entidade, essa entidade é denominada associativa, pois elas representam um fato, um relacionamento muitos-para-muitos. A entidade associativa faz a intermediação entre as entidades.</p>
-<div style="text-align: center;">
+<div align="center" style="text-align: center;">
     <img style= "border: 4px solid black; height: 300px;"src="https://user-images.githubusercontent.com/69658602/188505690-9e5db2bf-ab8b-46be-a39b-7c2951024d4c.png">
 </div>
 <hr>
@@ -112,8 +112,8 @@
 <p> • Em entidades fracas temos a chave parcial, mas também temos que colocar a chave primária da entidade forte relacionada. Exemplo: Cod_cliente em "Pedido".</p>
 
 <h2 align="center"> Modelagem final: </h2>
-<div style="text-align: center;">
-    <img style= "border: 4px solid black; height: 300px;"src="https://user-images.githubusercontent.com/69658602/188716106-228bbaed-5ee3-405a-b997-c2fbdb987779.png">
+<div align="center" style="text-align: center;">
+    <img style= "border: 4px solid black; height: 500px;"src="https://user-images.githubusercontent.com/69658602/188716106-228bbaed-5ee3-405a-b997-c2fbdb987779.png">
 </div>
 
 <hr>
